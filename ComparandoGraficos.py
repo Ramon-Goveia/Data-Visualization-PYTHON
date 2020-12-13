@@ -23,3 +23,4 @@ plt.bar(x2, y2, label = "Grupo 2")
 plt.legend()
 
 plt.show()
+plt.savefig("figura3.png", dpi=300)

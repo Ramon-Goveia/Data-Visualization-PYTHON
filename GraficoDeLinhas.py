@@ -15,4 +15,6 @@ plt.ylabel(eixoy)
 
 #Eixos
 plt.plot(x, y)
+
 plt.show()
+plt.savefig("figura1.png", dpi=300)

@@ -19,3 +19,4 @@ plt.scatter(x, y, label = "Pontos", color= "#22B573", marker="h", s=z)
 plt.legend()
 
 plt.show()
+plt.savefig("figura4.png", dpi=300)
